@@ -32,6 +32,6 @@
             })
         .catch(error => console.log(error));
       } else {
-        alert("You must fill out all the fields");
+        alert("Debes llenar todos los campos!");
       }
     }
